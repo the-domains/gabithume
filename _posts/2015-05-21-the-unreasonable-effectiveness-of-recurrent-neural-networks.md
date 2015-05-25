@@ -23,7 +23,7 @@ datePublished: "2015-05-21T00:00:00.000Z"
 app_links: []
 isBasedOnUrl: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
 title: The Unreasonable Effectiveness of Recurrent Neural Networks
-dateModified: "2015-05-25T14:16:30.396Z"
+dateModified: "2015-05-25T14:16:40.436Z"
 sourcePath: _posts/2015-05-21-the-unreasonable-effectiveness-of-recurrent-neural-networks.md
 published: true
 _context: "http://schema.org"
