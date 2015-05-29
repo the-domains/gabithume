@@ -26,7 +26,7 @@ app_links: []
 isBasedOnUrl: "http://www.text-analytics101.com/2014/10/computing-precision-and-recall-for.html"
 title: "Text Mining, Analytics & More"
 datePublished: "2015-05-29T21:46:17.790Z"
-dateModified: "2015-05-29T21:46:17.790Z"
+dateModified: "2015-05-29T21:46:48.087Z"
 sourcePath: _posts/2015-05-29-text-mining-analytics-and-more.md
 published: true
 _context: "http://schema.org"
