@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: "http://neuralnetworksanddeeplearning.com/index.html"
 title: Neural networks and deep learning
 datePublished: "2015-05-29T21:46:48.360Z"
-dateModified: "2015-05-29T21:46:48.360Z"
+dateModified: "2015-05-29T21:59:49.176Z"
 sourcePath: _posts/2015-05-29-neural-networks-and-deep-learning.md
 published: true
 _context: "http://schema.org"
