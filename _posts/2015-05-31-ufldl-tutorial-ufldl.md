@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: "http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial"
 title: UFLDL Tutorial - Ufldl
 datePublished: "2015-05-31T18:19:22.327Z"
-dateModified: "2015-05-31T18:19:22.327Z"
+dateModified: "2015-05-31T18:58:53.773Z"
 sourcePath: _posts/2015-05-31-ufldl-tutorial-ufldl.md
 published: true
 _context: "http://schema.org"
