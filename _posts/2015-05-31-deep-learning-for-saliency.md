@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
-  url: "http://www.ece.nus.edu.sg"
+  url: 'http://www.ece.nus.edu.sg'
   name: Nus
-  favicon: "http://www.ece.nus.edu.sg/favicon.ico"
+  favicon: 'http://www.ece.nus.edu.sg/favicon.ico'
   domain: www.ece.nus.edu.sg
 keywords:
   - saliency
@@ -17,16 +17,16 @@ keywords:
   - zhao
   - visual
   - semantic
-description: "Visual attention is the ability to select visual stimuli that are most behaviorally relevant among the many others. It allows us to allocate our limited processing resources to the most informative part of the visual scene. In this work, we learn general high-level concepts with the aid of selective attention in a multi-layer deep network."
+description: 'Visual attention is the ability to select visual stimuli that are most behaviorally relevant among the many others. It allows us to allocate our limited processing resources to the most informative part of the visual scene. In this work, we learn general high-level concepts with the aid of selective attention in a multi-layer deep network.'
 inLanguage: English
 app_links: []
-isBasedOnUrl: "http://www.ece.nus.edu.sg/stfpage/eleqiz/deep_saliency.html"
+isBasedOnUrl: 'http://www.ece.nus.edu.sg/stfpage/eleqiz/deep_saliency.html'
 title: Deep Learning for Saliency
-datePublished: "2015-05-31T17:06:47.976Z"
-dateModified: "2015-05-31T17:06:47.976Z"
+datePublished: '2015-05-31T17:06:47.976Z'
+dateModified: '2015-06-20T21:22:29.316Z'
 sourcePath: _posts/2015-05-31-deep-learning-for-saliency.md
 published: true
-_context: "http://schema.org"
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
