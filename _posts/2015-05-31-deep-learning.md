@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
-  url: "https://www.iro.umontreal.ca"
+  url: 'https://www.iro.umontreal.ca'
   name: Umontreal
-  favicon: "https://www.iro.umontreal.ca/favicon.ico"
+  favicon: 'https://www.iro.umontreal.ca/favicon.ico'
   domain: www.iro.umontreal.ca
 keywords:
   - learning
@@ -17,16 +17,16 @@ keywords:
   - iro
   - yoshua
   - goodfellow
-description: "@unpublished{Bengio-et-al-2015-Book, title={Deep Learning}, author={Yoshua Bengio and Ian J. Goodfellow and Aaron Courville}, note={Book in preparation for MIT Press}, url={http://www.iro.umontreal.ca/~bengioy/dlbook}, year={2015} } Please help us make this a great book! This draft is still full of typos and can be improved in many ways. Your suggestions are more than welcome."
+description: '@unpublished{Bengio-et-al-2015-Book, title={Deep Learning}, author={Yoshua Bengio and Ian J. Goodfellow and Aaron Courville}, note={Book in preparation for MIT Press}, url={http://www.iro.umontreal.ca/~bengioy/dlbook}, year={2015} } Please help us make this a great book! This draft is still full of typos and can be improved in many ways. Your suggestions are more than welcome.'
 inLanguage: English
 app_links: []
-isBasedOnUrl: "https://www.iro.umontreal.ca/~bengioy/DLbook/"
+isBasedOnUrl: 'https://www.iro.umontreal.ca/~bengioy/DLbook/'
 title: DEEP LEARNING
-datePublished: "2015-05-31T18:58:53.389Z"
-dateModified: "2015-05-31T18:58:53.389Z"
+datePublished: '2015-05-31T18:58:53.389Z'
+dateModified: '2015-06-20T21:22:27.815Z'
 sourcePath: _posts/2015-05-31-deep-learning.md
 published: true
-_context: "http://schema.org"
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
