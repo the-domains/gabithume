@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
-  url: "http://tecendobits.cc"
+  url: 'http://tecendobits.cc'
   name: Tecendobits
-  favicon: "http://tecendobits.cc/favicon.png"
+  favicon: 'http://tecendobits.cc/favicon.png'
   domain: tecendobits.cc
 keywords:
   - opw
@@ -17,16 +17,16 @@ keywords:
   - open-source
   - web
   - socorro
-description: "My identity is mine! Keep the web free and open! ♥"
+description: 'My identity is mine! Keep the web free and open! ♥'
 inLanguage: English
 app_links: []
-isBasedOnUrl: "http://tecendobits.cc/open-web/"
+isBasedOnUrl: 'http://tecendobits.cc/open-web/'
 title: Open Web - TecendoBits
-datePublished: "2015-05-31T19:06:36.539Z"
-dateModified: "2015-05-31T19:06:36.539Z"
+datePublished: '2015-05-31T19:06:36.539Z'
+dateModified: '2015-06-20T21:22:26.125Z'
 sourcePath: _posts/2015-05-31-open-web-tecendobits.md
 published: true
-_context: "http://schema.org"
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
