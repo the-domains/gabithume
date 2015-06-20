@@ -2,7 +2,7 @@
 author: []
 related: []
 publisher:
-  url: "http://deeplearning.net"
+  url: 'http://deeplearning.net'
   name: Deeplearning
   favicon: null
   domain: deeplearning.net
@@ -17,16 +17,16 @@ keywords:
   - machines
   - read
   - modeling
-description: "Deep Learning is a new area of Machine Learning research, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: Artificial Intelligence. See these course notes for a brief introduction to Machine Learning for AI and an introduction to Deep Learning algorithms."
+description: 'Deep Learning is a new area of Machine Learning research, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: Artificial Intelligence. See these course notes for a brief introduction to Machine Learning for AI and an introduction to Deep Learning algorithms.'
 inLanguage: English
 app_links: []
-isBasedOnUrl: "http://deeplearning.net/tutorial/"
+isBasedOnUrl: 'http://deeplearning.net/tutorial/'
 title: Deep Learning Tutorials - DeepLearning 0.1 documentation
-datePublished: "2015-05-31T18:58:53.869Z"
-dateModified: "2015-05-31T18:58:53.869Z"
+datePublished: '2015-05-31T18:58:53.869Z'
+dateModified: '2015-06-20T21:22:28.973Z'
 sourcePath: _posts/2015-05-31-deep-learning-tutorials-deeplearning-01-documentation.md
 published: true
-_context: "http://schema.org"
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
