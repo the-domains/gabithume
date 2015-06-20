@@ -2,7 +2,7 @@
 author: []
 related: []
 publisher:
-  url: "http://deeplearning.stanford.edu"
+  url: 'http://deeplearning.stanford.edu'
   name: Stanford
   favicon: null
   domain: deeplearning.stanford.edu
@@ -17,16 +17,16 @@ keywords:
   - sections
   - logistic
   - deep
-description: "This tutorial assumes a basic knowledge of machine learning (specifically, familiarity with the ideas of supervised learning, logistic regression, gradient descent). If you are not familiar with these ideas, we suggest you go to this Machine Learning course and complete sections II, III, IV (up to Logistic Regression) first."
+description: 'This tutorial assumes a basic knowledge of machine learning (specifically, familiarity with the ideas of supervised learning, logistic regression, gradient descent). If you are not familiar with these ideas, we suggest you go to this Machine Learning course and complete sections II, III, IV (up to Logistic Regression) first.'
 inLanguage: English
 app_links: []
-isBasedOnUrl: "http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial"
+isBasedOnUrl: 'http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial'
 title: UFLDL Tutorial - Ufldl
-datePublished: "2015-05-31T18:19:22.327Z"
-dateModified: "2015-05-31T18:58:53.773Z"
+datePublished: '2015-05-31T18:19:22.327Z'
+dateModified: '2015-06-20T21:22:29.301Z'
 sourcePath: _posts/2015-05-31-ufldl-tutorial-ufldl.md
 published: true
-_context: "http://schema.org"
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
