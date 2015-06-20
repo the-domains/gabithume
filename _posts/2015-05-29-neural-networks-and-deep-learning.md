@@ -2,7 +2,7 @@
 author: []
 related: []
 publisher:
-  url: "http://neuralnetworksanddeeplearning.com"
+  url: 'http://neuralnetworksanddeeplearning.com'
   name: Neuralnetworksanddeeplearning
   favicon: null
   domain: neuralnetworksanddeeplearning.com
@@ -20,13 +20,13 @@ keywords:
 description: "In academic work, please cite this book as: Michael A. Nielsen, \"Neural Networks and Deep Learning\", Determination Press, 2015 This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License. This means you're free to copy, share, and build on this book, but not to sell it."
 inLanguage: English
 app_links: []
-isBasedOnUrl: "http://neuralnetworksanddeeplearning.com/index.html"
+isBasedOnUrl: 'http://neuralnetworksanddeeplearning.com/index.html'
 title: Neural networks and deep learning
-datePublished: "2015-05-29T21:46:48.360Z"
-dateModified: "2015-05-29T21:59:49.176Z"
+datePublished: '2015-05-29T21:46:48.360Z'
+dateModified: '2015-06-20T21:22:29.634Z'
 sourcePath: _posts/2015-05-29-neural-networks-and-deep-learning.md
 published: true
-_context: "http://schema.org"
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
