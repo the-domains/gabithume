@@ -1,6 +1,6 @@
 name: gabithume
 favicon: null
-layout_spectrum: 0.81579
+layout_spectrum: 0.48246
 typography_spectrum: 0.60526
 title: gabithume
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6d5e5b'
-    - '#bebcbc'
-    - '#212020'
-    - '#9a8c89'
-    - '#463c3b'
+    - '#06020a'
+    - '#b1aeb1'
+    - '#418d49'
+    - '#f2f9fc'
+    - '#850039'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
