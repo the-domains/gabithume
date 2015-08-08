@@ -5,8 +5,15 @@
         <description><![CDATA[gabithume]]></description>
         <link>https://thegrid.ai/gabithume/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 08 Aug 2015 01:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2015 01:48:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gabithume/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henri Bergius]]></title>
+            <description><![CDATA[<article><h1>Henri Bergius</h1><p>When we design responsively, our content elegantly and efficiently flows into any device. All of our content, that is, except images. For years, we've catered to users with the highest-resolution screens by sending giant images to everyone. No longer. Eric Portis takes us through the new picture element and other attributes to let us mark up multiple, alternate sources.</p></article>]]></description>
+            <link>http://bergie.today/</link>
+            <guid isPermaLink="false">235cb584-22f3-4e1e-8516-9d8fdadc8d5e</guid>
+            <pubDate>Sat, 08 Aug 2015 01:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>reason</p>]]></description>
