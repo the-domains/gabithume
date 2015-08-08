@@ -5,8 +5,15 @@
         <description><![CDATA[gabithume]]></description>
         <link>https://thegrid.ai/gabithume/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 08 Aug 2015 01:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2015 01:48:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gabithume/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Simultaneous Detection and Segmentation]]></title>
+            <description><![CDATA[<article><h1>Simultaneous Detection and Segmentation</h1><p>We aim to detect all instances of a category in an image and, for each instance, mark the pixels that belong to it. We call this task Simultaneous Detection and Segmentation (SDS). Unlike classical bounding box detection, SDS requires a segmentation and not just a box.</p><img src="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/eccv14overview3.png"></article>]]></description>
+            <link>http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/</link>
+            <guid isPermaLink="false">285766e2-63a3-4adc-a7ad-b2c3655903b9</guid>
+            <pubDate>Sat, 08 Aug 2015 01:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
             <description><![CDATA[<article><h1>Henri Bergius</h1><p>When we design responsively, our content elegantly and efficiently flows into any device. All of our content, that is, except images. For years, we've catered to users with the highest-resolution screens by sending giant images to everyone. No longer. Eric Portis takes us through the new picture element and other attributes to let us mark up multiple, alternate sources.</p></article>]]></description>
