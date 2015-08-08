@@ -5,8 +5,15 @@
         <description><![CDATA[gabithume]]></description>
         <link>https://thegrid.ai/gabithume/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 08 Aug 2015 01:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2015 01:49:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gabithume/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Visual Geometry Group Home Page]]></title>
+            <description><![CDATA[<article><h1>Visual Geometry Group Home Page</h1><p>Cookies This website uses Google Analytics to help us improve the website content. This requires the use of standard Google Analytics cookies, as well as a cookie to record your response to this confirmation request. If this is OK with you, please click 'Accept cookies', otherwise you will see this notice on every page.</p><img src="http://www.robots.ox.ac.uk/~vgg/research/text/pipeline.png"></article>]]></description>
+            <link>http://www.robots.ox.ac.uk/~vgg/research/text/</link>
+            <guid isPermaLink="false">d68c512b-7228-42ca-ac7a-276b7b008b47</guid>
+            <pubDate>Sat, 08 Aug 2015 01:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[subokita/Robust-Text-Detection]]></title>
             <description><![CDATA[<article><h1>subokita/Robust-Text-Detection</h1><p>Robust-Text-Detection - Robust Text Detection implementation based on http://www.stanford.edu/~hchen2/papers/ICIP2011_RobustTextDetection.pdf</p><img src="https://avatars2.githubusercontent.com/u/2043928?v=3&s=400"></article>]]></description>
