@@ -1,21 +1,4 @@
-name: gabithume
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.6611
-style: the-composer
-title: gabithume
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fae4b2'
@@ -27,4 +10,23 @@ color:
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  url: gabithu.me
+name: gabithume
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: the-composer
+favicon: null
+title: gabithume
 purpose: []
