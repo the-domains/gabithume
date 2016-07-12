@@ -20,7 +20,9 @@ analytics:
   facebook: null
   twitter: null
 author:
-  url: gabithu.me
+  url: ''
+  email: gabithume@gmail.com
+  name: Gabriela Thumé
 name: gabithume
 cta:
   domain: null
